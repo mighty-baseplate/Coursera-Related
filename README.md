@@ -1,3 +1,1 @@
-# Final Project
-
-This repository contains the work for the final project.
+"This is the README for the forked repository."  
